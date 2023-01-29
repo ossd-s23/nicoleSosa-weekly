@@ -93,3 +93,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
+
+# this allows me to include future blogs
+future: true
