@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 3 - Git and Add-On Project Reflections
+title: Week 3 - Git Exercise and Add-On Project Reflections
 ---
 
 ## Git Exercise Activity
