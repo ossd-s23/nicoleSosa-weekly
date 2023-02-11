@@ -24,4 +24,4 @@ Replace the first row with your own contribution.
 |---|:---|:---|:---|
 | Feb 1 | [link to my contribution](https://github.com/joannakl/ossd/issues/38) | course website    |   I reported an outdated link.   |
 | Feb 1 | [link to my contribution](https://github.com/joannakl/ossd/issues/21) | course website | I removed two trailing backticks. |
-|     |     |     |      |
+| Feb 11 | [link to my contribution](https://github.com/ossd-s23/seoeunHong-weekly/issues/2) | blog | I reported extra quotation marks. |
