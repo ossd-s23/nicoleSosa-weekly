@@ -28,4 +28,5 @@ Replace the first row with your own contribution.
 | Feb 15 | [link to my contribution](https://en.wikipedia.org/w/index.php?title=Battle_of_Ciudad_Universitaria&diff=prev&oldid=1139619072) | Wikipedia edit | I fixed tense issues, repositioned words, added a missing article, capitalized words, and deleted a few extraneous words. |
 | Feb 16 | [link to my contribution](https://github.com/ossd-s23/TabColor/issues/10) | TabColor Add-On Project | I reported an issue with the discord channel links that I had encountered. |
 | Feb 17 | [link to my contribution](https://github.com/ossd-s23/rufaida99-k-weekly/issues/1) | blog | I fixed the position of the read more button. |
+| Feb 25 | [link to my contribution](https://en.wikipedia.org/w/index.php?title=2022%E2%80%932023_Peruvian_protests&diff=prev&oldid=1141449504) | Wikipedia edit | I restructured some sentences, repositioned a few words, and removed some extraneous words. |
 
