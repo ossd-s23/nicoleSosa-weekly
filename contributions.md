@@ -30,4 +30,5 @@ Replace the first row with your own contribution.
 | Feb 17 | [link to my contribution](https://github.com/ossd-s23/rufaida99-k-weekly/issues/1) | blog | I fixed the position of the read more button. |
 | Feb 25 | [link to my contribution](https://en.wikipedia.org/w/index.php?title=2022%E2%80%932023_Peruvian_protests&diff=prev&oldid=1141449504) | Wikipedia edit | I restructured some sentences, repositioned a few words, and removed some extraneous words. |
 | Mar 5 | [link to my contribution](https://www.openstreetmap.org/changeset/133313229) | OpenStreetMap Edit | I updated some missing information about my local Sweetgreen. |
+| Mar 12 | [link to my contribution](https://www.openstreetmap.org/changeset/133607218) | OpenStreetMap Edit | I updated missing information about my local Mi Tierrita Restaurant. |
 
