@@ -32,4 +32,6 @@ Replace the first row with your own contribution.
 | Mar 5 | [link to my contribution](https://www.openstreetmap.org/changeset/133313229) | OpenStreetMap Edit | I updated some missing information about my local Sweetgreen. |
 | Mar 12 | [link to my contribution](https://www.openstreetmap.org/changeset/133607218) | OpenStreetMap Edit | I updated missing information about my local Mi Tierrita Restaurant. |
 | Mar 12 | [link to my contribution](https://en.wikipedia.org/w/index.php?title=Chicano&diff=prev&oldid=1144330406) | Wikipedia edit | I restructured a few sentences, repositioned words, replaced words, and fixed placement of commas. |
+| Mar 19 | [link to my contribution](https://www.openstreetmap.org/changeset/133880050) | OpenStreetMap Edit | I corrected the name of the restaurant **El Ajicito**, added missing address information, and additional fields. |
+| Mar 19 | [link to my contribution](https://www.openstreetmap.org/changeset/133880475) | OpenStreetMap Edit | I added my local **family dollar**. |
 
