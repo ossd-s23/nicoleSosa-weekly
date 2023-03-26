@@ -34,4 +34,5 @@ Replace the first row with your own contribution.
 | Mar 12 | [link to my contribution](https://en.wikipedia.org/w/index.php?title=Chicano&diff=prev&oldid=1144330406) | Wikipedia edit | I restructured a few sentences, repositioned words, replaced words, and fixed placement of commas. |
 | Mar 19 | [link to my contribution](https://www.openstreetmap.org/changeset/133880050) | OpenStreetMap Edit | I corrected the name of the restaurant **El Ajicito**, added missing address information, and additional fields. |
 | Mar 19 | [link to my contribution](https://www.openstreetmap.org/changeset/133880475) | OpenStreetMap Edit | I added my local **family dollar**. |
+| Mar 26 | [link to my contribution](https://en.wikipedia.org/w/index.php?title=Cyclone_Yaku&diff=prev&oldid=1146650646) | Wikipedia edit | I made minor edits such as fixing typos and making a few sentences more concise by removing extra words. |
 
