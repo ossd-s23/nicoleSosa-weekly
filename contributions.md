@@ -37,5 +37,6 @@ Replace the first row with your own contribution.
 | Mar 26 | [link to my contribution](https://en.wikipedia.org/w/index.php?title=Cyclone_Yaku&diff=prev&oldid=1146650646) | Wikipedia edit | I made minor edits such as fixing typos and making a few sentences more concise by removing extra words. |
 | Mar 29 | [link to my contribution](https://github.com/firstcontributions/first-contributions/pull/65624) | First Contributions | I added my name to the contributors list. |
 | Mar 30 | [link to my contribution](https://github.com/codinasion/hello-world/issues/726) | Codinasion  Code | I added a hello world program written in the languange Pony to the Codinasion's hello-world project. |
-| Mar 30 | [link to my contribution](https://github.com/blavejr/OrganiseDesktop/issues/100) | OrganiseDesktop  issue | I opened an issue in OrganiseDesktop about a link in their contributing documentation that didn't align with the text it was hyperlinked to. |
+| Mar 30 | [link to my contribution](https://github.com/blavejr/OrganiseDesktop/issues/100) | Opened an issue | I opened an issue in OrganiseDesktop about a link in their contributing documentation that didn't align with the text it was hyperlinked to. |
+| Apr 1 | [link to my contribution](https://github.com/ForrestKnight/open-source-cs/issues/76) | Opened an issue | I opened an issue in the open-source-cs project regarding missing prerquisites for a course. |
 
