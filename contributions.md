@@ -39,4 +39,6 @@ Replace the first row with your own contribution.
 | Mar 30 | [link to my contribution](https://github.com/codinasion/hello-world/issues/726) | Codinasion  Code | I added a hello world program written in the languange Pony to the Codinasion's hello-world project. |
 | Mar 30 | [link to my contribution](https://github.com/blavejr/OrganiseDesktop/issues/100) | Opened an issue | I opened an issue in OrganiseDesktop about a link in their contributing documentation that didn't align with the text it was hyperlinked to. |
 | Apr 1 | [link to my contribution](https://github.com/ForrestKnight/open-source-cs/issues/76) | Opened an issue | I opened an issue in the open-source-cs project regarding missing prerquisites for a course. |
+| Apr 2 | [link to my contribution](https://github.com/mbiesiad/awesome-translations/pull/51) | awesome-translations pull request | I added a translation tool called Apertium to the awesome-translations project. Currently, I sent out a pull request and waiting for it to be approved and merged. |
+| Apr 2 | [link to my contribution](https://github.com/codinasion/program/issues/114) | Codinasion  Code | I added a program written in Julia to divide two numbers to the Codinasion's program project. |
 
