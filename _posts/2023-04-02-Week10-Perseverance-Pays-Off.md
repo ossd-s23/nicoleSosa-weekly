@@ -11,13 +11,15 @@ Despite experiencing many challenges with the installation process and unfriendl
 
 I am grateful for the opportunity to collaborate with my team on **Oppia** and am excited to see what we can accomplish during the remainder of the semester. We plan to make at least two more contributions this week and hopefully start working on making their documentation more user-friendly. As a side note, I included a picture of our team when we made our first code contribution. This [issue](https://github.com/oppia/oppia/issues/17832) involved fixing an accessibility issue related to the links in their exploration page. 
 
-<img src="/Users/nicolesosa/Desktop/image000000-1.jpg" alt="team picture" width="500">
+<img src="../images/moonie.png" alt="team picture" width="500">
 
 
 
 ## Individual Contributions
 
-Furthermore, my experience with **Oppia** has helped me grow both as an open-source contributor and in terms of my individual contributions. Before working on **Oppia**, I hesitated to contribute to projects outside of **Wikipedia** and **OpenStreetMap**. However, my experience of troubleshooting numerous issues with **Oppia** and gaining exposure to many technical terms, development environments, and code tests have helped me become much more confident to venture out and contribute to different projects. I have been able to contribute to these projects: . Moreover, I also believe this growth comes from learning more about open source through presentations with **Mek Karpeles** and **Jim Hall**, class lectures, and exploring projects that piqued my interest. 
+Furthermore, my experience with **Oppia** has helped improve my individual contributions to open-source projects. Before working on **Oppia**, I hesitated contributing to projects outside **of Wikipedia** and **OpenStreetMap**. However, my experience of troubleshooting numerous issues with **Oppia** and being exposed to many technical terms, development environments, and code tests have helped me become more confident to venture out and contribute to different open source projects. Moreover, I also believe this growth comes from learning more about open source through presentations with **Mek Karpeles** and **Jim Hall**, class lectures, and exploring projects that interest me. As a result, I have been able to contribute to several other projects like **Codinasion**, **awesome-translations** , and **OrganiseDesktop**. As we advance in the semester, I hope to continue learning and improving as an open-source contributor and continue making individual contributions outside my comfort zone. 
+
+
 
 
 
