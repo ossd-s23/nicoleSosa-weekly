@@ -36,9 +36,9 @@ Replace the first row with your own contribution.
 | Mar 19 | [link to my contribution](https://www.openstreetmap.org/changeset/133880475) | OpenStreetMap Edit | I added my local **family dollar**. |
 | Mar 26 | [link to my contribution](https://en.wikipedia.org/w/index.php?title=Cyclone_Yaku&diff=prev&oldid=1146650646) | Wikipedia edit | I made minor edits such as fixing typos and making a few sentences more concise by removing extra words. |
 | Mar 29 | [link to my contribution](https://github.com/firstcontributions/first-contributions/pull/65624) | First Contributions | I added my name to the contributors list in the First Contributions Project. |
-| Mar 30 | [link to my contribution](https://github.com/codinasion/hello-world/issues/726) | Codinasion/hello-world                  Code Contribution | I added a hello world program written in the languange Pony to Codinasion's hello-world project. |
+| Mar 30 | [link to my contribution](https://github.com/codinasion/hello-world/issues/726) | codinasion/hello-world                   Code Contribution | I added a hello world program written in the languange Pony to Codinasion's hello-world project. |
 | Mar 30 | [link to my contribution](https://github.com/blavejr/OrganiseDesktop/issues/100) | OrganiseDesktop issue | I opened an issue in OrganiseDesktop about a link in their contributing documentation that didn't align with the text it was hyperlinked to. |
 | Apr 1 | [link to my contribution](https://github.com/ForrestKnight/open-source-cs/issues/76) | open-source-cs  issue | I opened an issue in the open-source-cs project regarding missing prerquisites for a course. |
 | Apr 2 | [link to my contribution](https://github.com/mbiesiad/awesome-translations/pull/51) | awesome-translations | I added a translation tool called Apertium to the awesome-translations project. |
-| Apr 2 | [link to my contribution](https://github.com/codinasion/program/issues/114) | Codinasion/program Code Contribution | I added a program written in Julia to divide two numbers to Codinasion's program project. |
+| Apr 2 | [link to my contribution](https://github.com/codinasion/program/issues/114) | codinasion/program project                Code Contribution | I added a program written in Julia to divide two numbers to Codinasion's program project. |
 
