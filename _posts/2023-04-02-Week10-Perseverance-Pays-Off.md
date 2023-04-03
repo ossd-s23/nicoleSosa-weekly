@@ -11,7 +11,7 @@ Despite experiencing many challenges with the installation process and unfriendl
 
 I am grateful for the opportunity to collaborate with my team on **Oppia** and am excited to see what we can accomplish during the remainder of the semester. We plan to make at least two more contributions this week and hopefully start working on making their documentation more user-friendly. As a side note, I included a picture of our team when we made our first code contribution. This [issue](https://github.com/oppia/oppia/issues/17832) involved fixing an accessibility issue related to the links in their exploration page. 
 
-<img src="/Users/nicolesosa/Desktop/image000000-1.jpg" style="zoom:33%;" />
+<img src="/Users/nicolesosa/Desktop/image000000-1.jpg" alt="team picture" width="500">
 
 
 
