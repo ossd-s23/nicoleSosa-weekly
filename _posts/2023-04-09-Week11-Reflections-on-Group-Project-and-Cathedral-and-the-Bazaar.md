@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 11 - Reflections on Stand Up Reports, The Cathedral and the Bazaar, and Group Work
+title: Week 11 - Reflections on Group Project and Cathedral and the Bazaar
 ---
 
 ## **Stand up reports**
