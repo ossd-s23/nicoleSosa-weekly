@@ -41,4 +41,5 @@ Replace the first row with your own contribution.
 | Apr 1 | [link to my contribution](https://github.com/ForrestKnight/open-source-cs/issues/76) | open-source-cs  issue | I opened an issue in the open-source-cs project regarding missing prerquisites for a course. |
 | Apr 2 | [link to my contribution](https://github.com/mbiesiad/awesome-translations/pull/51) | awesome-translations | I added a translation tool called Apertium to the awesome-translations project. |
 | Apr 2 | [link to my contribution](https://github.com/codinasion/program/issues/114) | codinasion/program project                Code Contribution | I added a program written in Julia to divide two numbers to Codinasion's program project. |
+| Apr 9 | [link to my contribution](https://github.com/codinasion/program/pull/7209) | codinasion/program project                Code Contribution | I added a Julia program to convert weeks to days to the Codinasion's program project. |
 
