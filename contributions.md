@@ -43,4 +43,6 @@ Replace the first row with your own contribution.
 | Apr 2 | [link to my contribution](https://github.com/codinasion/program/issues/114) | codinasion/program project                Code Contribution | I added a program written in Julia to divide two numbers to Codinasion's program project. |
 | Apr 9 | [link to my contribution](https://github.com/codinasion/program/pull/7209) | codinasion/program project                Code Contribution | I added a Julia program to convert weeks to days to the Codinasion's program project. |
 | Apr 9 | [link to my contribution](https://www.openstreetmap.org/changeset/134707578) | OpenStreetMap Edit | I added my local Wingstop. |
+| Apr 16 | [link to my contribution](https://www.openstreetmap.org/changeset/134997487#map=19/40.69200/-73.98479) | OpenStreetMap Edit | I added a new Everytable restaurant that opened up in downtown brooklyn. |
+| Apr 16 | [link to my contribution](https://en.wikipedia.org/w/index.php?title=Chifa&diff=prev&oldid=1150257966&diffmode=source) | Wikipedia edit | I made some grammatical changes to a few sentences to make them more clearer and concise. |
 
