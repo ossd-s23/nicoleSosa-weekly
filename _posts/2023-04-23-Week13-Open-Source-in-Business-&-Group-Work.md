@@ -15,5 +15,7 @@ Another interesting reason I learned that drives businesses to use open source i
 
 # Group Work's Progress
 
+One of our biggest accomplishments was being assigned a code issue early on in our project which we submitted a pull request. After quite some time, Oppia finally merged that pull request this week. Although we successfully found a code issue we could tackle early on,  we've struggled to find other code issues since then. The complexity of the codebase and our skill level has made it difficult for us to find feasible issues to tackle. To address this, we decided to spend more time solving the issues and even implemented a divide-and-conquer approach where we tackled issues in pairs. This method worked because this week, we found two code issues we could fix and successfully submitted a pull request for one. What was surprising to me was that we were able to solve an issue we had posted about a week ago, but were unable to fix at the time.
 
+Despite this recent success, we have had some surprising failures as well. Although we were confident that we could contribute to Oppia's documentation if we couldn't contribute to their codebase, we have yet to succeed. We even tried posting two bug fixes regarding their documentation to gauge Oppia's response, but they only thanked us and took the bug request for themselves, submitting the pull request each time. Based on this experience, we don't think Oppia is as welcoming to documentation contributions as they are to codebase contributions.
 
