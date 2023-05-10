@@ -1,23 +1,15 @@
 ---
 layout: post
-title: Week 14 - Open Source in Different Areas & Group Project
+title: Week 15 - Presentations
 ---
 
-# Open Source in Different Areas 
-
-In this week's class, we had an interesting discussion about the various uses of open source in different fields. As someone deeply involved with open source in education for the past few weeks through my group project on **Oppia,** I found it refreshing and exciting to learn about the diverse uses of open source.
-
-<!--more-->
-
-One project that really stood out to me was **The Open Source Afro Hair Library**, which features a collection of 3D designs for Afro-textured hair. As someone who doesn't play video games very often, I was unaware of the lack of appropriate depictions of afro hair in these games. However, after hearing about this project, I decided to look up video game depictions of afro hair and was shocked by how inaccurate they were. I was impressed by this project's goal to provide free and open resources to the industry so that there is no excuse for them to misrepresent afro hair and African Americans.
-
-As a Latina, it made me reflect on how Latinos and their hair are represented in video games. I wondered if there was a similar project for Latinos hair. If not, I think it would be amazing to have one, as these types of projects can help to stop the misrepresentation of people. 
-
-# Group Project's Progress
-
-As presentations are approaching this upcoming week, my group and I have been working hard to submit the remaining pull requests and prepare our presentation. Although we won't be making any further contributions, we will continue to monitor and address any issues that arise with our current pull requests. Additionally, to our suprise, we were assigned an [issue](https://github.com/oppia/oppia-web-developer-docs/issues/157) this week that we had expected the maintainer to handle, but it ended up being assigned to us. Despite the initial surprise, we had excellent communication with the maintainer and were able to merge and resolve the [issue](https://github.com/oppia/oppia-web-developer-docs/pull/163) quickly.
-
-Aside from that, our primary focus has been on preparing an amazing presentation that will showcase our journey contributing to **Oppia**. As the end of our project approaches, I must say that it has been an incredible experience to have had the opportunity to work on such an impactful project. I am really grateful to have collaborated with everyone in my group, who were always supportive and respectful to one another.
 
 
+## Reflection on Presentation
+
+Last Wednesday, my team and I presented our **Oppia** project to the class. Although I was a bit nervous, I'm glad we had the opportunity to showcase all the hard work we put into this project. We practiced multiple times to ensure our presentation was smooth, which paid off because I felt it went well. When we finally finished our presentation, I had mixed feelings. On the one hand, I was proud of what we accomplished, but on the other hand, I felt a sense of sadness knowing that this marked the end of a great experience working with my team. Since some of us will be graduating and moving on to other things, it will be difficult to work together again. However, I am grateful for the amazing people I had the opportunity to collaborate with and learn from. 
+
+Moreover, I really enjoyed seeing the other presentations. It helped me learn more about the projects being worked on this semester and the different ways to contribute to them. In particular, one project that really caught my attention was **Jarvis.** I liked this project because it seems beginner-friendly and has a lot of room to contribute. Also, the code contribution seemed to be written in python, which is a language I am comfortable with. That said, I am strongly considering contributing to **Jarvis** in the future.
+
+On one last note, I am thankful for the opportunity to take this class. I learned so much from the lectures, in-class activities, and project. Additionally, the class environment was wonderful, and I felt comfortable interacting with my classmates and participating in discussions. This has been by far one of my favorite CS class ever and I will miss it very much. 
 
